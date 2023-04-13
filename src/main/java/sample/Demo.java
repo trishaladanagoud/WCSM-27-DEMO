@@ -10,6 +10,14 @@ public class Demo {
 		}
  System.out.println("radha"); 
  System.out.println("radhakrishana");
+ int s=4;
+ if(s==4)
+ {
+	 System.out.println("equal");
+ }else
+ {
+	 System.out.println("not equal");
+ }
 	}
 
 }
