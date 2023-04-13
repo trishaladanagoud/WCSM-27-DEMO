@@ -8,7 +8,7 @@ public class Demo {
 		{
 			System.out.println("krishna");
 		}
-
+ System.out.println("radha"); 
 	}
 
 }
